@@ -12,12 +12,12 @@ We all have learned so much from our fellow contributors. We have not only learn
 
 We are grateful for the opportunity to have worked on a project that even it was small it was used to solve real problems. Appverse has helped people to build and share their own applications.
 
-We would like to thank all of the contributors to Appverse. Without your dedication and hard work, this project would not have been possible. We are also grateful to the Appverse community for your support and feedback.
+We would like to thank all of the contributors to Appverse and specially the Project Founder [carloslozano](https://github.com/orgs/Appverse/people/carloslozano). Without your dedication and hard work, this project would not have been possible. We are also grateful to the Appverse community for your support and feedback.
 
 Thank you for making Appverse a success.
 
 Sincerely,
-The Appverse Team 👋
+The Appverse Team 
 
 <!--
 
